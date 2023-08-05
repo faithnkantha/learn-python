@@ -1,4 +1,4 @@
-#Frist Challenge 😊
+# Frist Challenge 😊
 ## this is the step by stp guide to the challenge  you can follow it
 
 
@@ -21,5 +21,5 @@ message.
 ● “Chunk” your code so that is readable.
 ● Use appropriate and informative variable names.
 
-#Find my solution in the file above👆
+# Find my solution in the file above👆
 
